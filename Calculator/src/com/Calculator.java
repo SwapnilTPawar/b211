@@ -9,6 +9,6 @@ public class Calculator {
 
 	public void subtraction()
 	{
-		System.out.println(50 - 30)
+		System.out.println(50 - 30);
 	}
 }
